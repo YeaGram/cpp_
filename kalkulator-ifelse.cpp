@@ -7,7 +7,7 @@ int main() {
     //Deklarasi
     bool x = true;
     float angka1, angka2, hasil;
-    string operan;
+    char operan;
 
     cout << "\nValid Format => [x + y]|[x - y]|[x / y]|[x * y]" << endl;
     cout << "Pisahkan Angka dan Operator Menggunakan Spasi" << endl;
