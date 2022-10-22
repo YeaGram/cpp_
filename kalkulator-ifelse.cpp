@@ -29,7 +29,7 @@ int main() {
 
     // Pengkondisian jika semua input benar
     if(x) {
-        cout << "Hasil dari :" << angka1 << operan << angka2 << " = " << hasil << endl;
+        cout << "Hasil dari : " << angka1 << operan << angka2 << " = " << hasil << endl;
     } else {
         cout << "Operator tidak valid atau anda mengopersikan bukan angka!" << endl;
     }
